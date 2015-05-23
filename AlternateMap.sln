@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AlternateMap", "AlternateMap.vcxproj", "{8DAB8629-9B3C-4E5F-B056-7D38C0BD6A35}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DAB8629-9B3C-4E5F-B056-7D38C0BD6A35}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8DAB8629-9B3C-4E5F-B056-7D38C0BD6A35}.Debug|Win32.Build.0 = Debug|Win32
+		{8DAB8629-9B3C-4E5F-B056-7D38C0BD6A35}.Release|Win32.ActiveCfg = Release|Win32
+		{8DAB8629-9B3C-4E5F-B056-7D38C0BD6A35}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
